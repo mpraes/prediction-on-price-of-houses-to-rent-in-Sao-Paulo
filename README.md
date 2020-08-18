@@ -6,6 +6,9 @@ Objetivo deste trabalho está em prever valores de aluguéis utilizando uma regr
 3 - Aplicar o Modelo e verificar resultados.
 
 
+Os dados foram extraidos do Kaggle neste link = https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent
+
+
 # Application of a multiple linear regression model to predict total house rentals in São Paulo.
 The objective of this work is to predict rental values ​​using a multiple linear regression. For that we need to perform three "big" steps below:
 
@@ -13,3 +16,5 @@ The objective of this work is to predict rental values ​​using a multiple li
 2 - Evaluate the variables that have a strong correlation with Y (total) and that are not collinear;
 3 - Apply the model and check results.
  
+
+The data were extracted from Kaggle on this link = https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent
